@@ -1,0 +1,26 @@
+#phoneImg{
+    width: 65rem !important;
+}
+li{
+list-style: none;
+padding: 3px;
+}
+#iphone14img{
+    background-color: #fafafa;
+}
+#watchimg{
+    width: 55px;
+    height: 48px;
+}
+#cardImg{
+    width: 30rem !important;
+}
+#card2Img{
+    width: 18rem !important;
+}
+
+#carousel{
+    width: 85rem !important;
+    margin-left: 35px !important; 
+}
+
